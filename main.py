@@ -3,37 +3,32 @@ import os
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts.chat import ChatPromptTemplate
-from PyPDF2 import PdfReader
+
 
 load_dotenv()
 
 avatar = "https://i.imgur.com/QnTYTCw.png"
 user = "https://upload.wikimedia.org/wikipedia/pt/f/f9/Furia_Esports_logo.png"
-pdf = PdfReader("Furia_DataBase.pdf")
 
 llm = ChatGoogleGenerativeAI(
     temperature=0.8,
     model="gemini-2.0-flash",
     max_tokens=1000,
-    api_key=os.getenv("SECRET_KEY")
+    api_key=os.getenv("SECRET_KEY"),
+    timeout=60
 )
 
-def read_pdf():
-    text = ""
-
-    for page in pdf.pages:
-        text += page.extract_text()
-    return text
-
 def chatbot_interaction(question):
-    context = read_pdf()
+
+    with open("furia_datalog.md", "r", encoding="utf-8") as f:
+        datalog_text = f.read()
 
     prompt = ChatPromptTemplate.from_messages([
         ("system", f"""Seu nome é RushAI e você é um especialista em e-sports, mais especificamente sobre a organização chamada Furia.
          Você deve responder as perguntas focando no time de CS2 da Furia, masculino e feminino.
          Você deve responder as perguntas de forma clara e objetiva.
-         Você deve usar como fonte principal esse PDF: {context}.
-         Você deve usar informações que não estão no PDF, de sites como HLTV, Liquipedia, Dust2, e redes sociais da Furia.
+         Você deve usar como fonte principal esse markdown: {datalog_text}. Lembrando de se atentar a data, utilize as informações mais recentes, comparando com a data do prompt.
+         Você deve usar informações que não estão no markdown, de sites como HLTV, Liquipedia, Dust2, e redes sociais da Furia.
          Você deve sempre responder em português, mesmo se a pergunta for em inglês.
          Você deve analisar a pergunta e resposta anterior para responder de forma mais precisa a pergunta atual.
          Você deve sempre deve ser politico e amigável, mesmo se a pergunta for ofensiva ou provocativa.

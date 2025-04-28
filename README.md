@@ -14,7 +14,8 @@ Com o RushAI você pode fazer qualquer pergunta relacionada ao time de Counter S
 Gemini
 
 ## Bibliotecas Utilizadas:
-* Requests - Ferramenta simples e elegante projetada para fazer requisições HTTP de maneira eficiente e fácil de usar. Ela permite interagir com APIs da web, acessar páginas da web, enviar dados para servidores e muito mais.Tornando o processo de comunicação entre seu programa Python e a web mais direto e eficiente.
+
+* Selenium - Biblioteca popular de código aberto utilizada principalmente para automatizar testes em aplicativos web. Ele oferece uma API que permite controlar um navegador web de forma programática, realizando ações como clicar em botões, preencher formulários, navegar em páginas e verificar o conteúdo exibido. Essencialmente, o Selenium simula as interações humanas com o navegador, o que o torna extremamente útil para testes automatizados e também para tarefas de scraping (coleta de dados) na web.
 
 * Langchain_google_genai - Fornece acesso a embeddings gerados por IA (Inteligência Artificial) da Google para aplicações de processamento de linguagem natural (NLP).
 
