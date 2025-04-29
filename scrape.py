@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import os
 
 def iniciar_driver():
     options = Options()
@@ -21,7 +22,7 @@ def iniciar_driver():
     options.add_argument('--disable-features=WebRtcHideLocalIpsWithMdns')
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
     options.add_experimental_option('excludeSwitches', ['enable-automation'])
-    
+
     driver = webdriver.Chrome(options=options)
     return driver
 
@@ -31,38 +32,34 @@ def buscar_noticias_furia(driver, url):
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(2)
 
+    xpath = "//a[contains(@href, 'noticia') and contains(@class, 'a-block') and contains(@class, 'standard-box') and contains(@class, 'news-item') and contains(@class, 'wide-article')]"
+
     WebDriverWait(driver, 15).until(
-        EC.presence_of_all_elements_located((By.XPATH, "//a[contains(@href, 'noticia')]"))
+        EC.presence_of_all_elements_located((By.XPATH, xpath))
     )
 
-    noticias = set()
-    links = driver.find_elements(By.XPATH, "//a[contains(@href, 'noticia')]")
+    noticias = []
+    links = driver.find_elements(By.XPATH, xpath)
     
     print(f"Analisando o link {url}...")
     for link in links:
         try:
             href = link.get_attribute("href")
-            if href and href not in noticias:
+            if href:
                 link_text = link.text.lower()
                 if 'furia' in link_text:
                     print(f"Notícia relacionada à FURIA encontrada: {href}")
-                    noticias.add(href)
+                    noticias.append(href)
         except Exception as e:
             print(f"Erro ao processar link: {e}")
     
-    return list(noticias)
+    return noticias
 
 def verificar_conteudo_furia(driver, link):
     try:
         driver.get(link)
         time.sleep(2)
-        
-        page_content = driver.page_source.lower()
-        
-        if 'furia' in page_content:
-            return True
-            
-        return False
+        return 'furia' in driver.page_source.lower()
     except Exception as e:
         print(f"Erro ao verificar conteúdo de {link}: {e}")
         return False
@@ -79,87 +76,108 @@ def extrair_conteudo_noticia(driver, link):
         data = data_elem[0].text.strip() if data_elem else 'Data não encontrada'
         
         conteudo = ""
-        
-        conteudo_div = driver.find_elements(By.CSS_SELECTOR, 'div.news-content')
+        conteudo_div = driver.find_elements(By.CSS_SELECTOR, 'div.news-content') or driver.find_elements(By.TAG_NAME, 'article')
         if conteudo_div:
             paragrafos = conteudo_div[0].find_elements(By.TAG_NAME, 'p')
             conteudo = '\n'.join(p.text.strip() for p in paragrafos if p.text.strip())
         else:
-            article = driver.find_elements(By.TAG_NAME, 'article')
-            if article:
-                paragrafos = article[0].find_elements(By.TAG_NAME, 'p')
-                conteudo = '\n'.join(p.text.strip() for p in paragrafos if p.text.strip())
-            else:
-                paragrafos = driver.find_elements(By.CSS_SELECTOR, 'p.paragraph')
-                conteudo = '\n'.join(p.text.strip() for p in paragrafos if p.text.strip())
+            paragrafos = driver.find_elements(By.CSS_SELECTOR, 'p.paragraph')
+            conteudo = '\n'.join(p.text.strip() for p in paragrafos if p.text.strip())
         
-        print(f"A notícia: {titulo} é valida!")
-        return titulo, data, conteudo
+        print(f"A notícia: {titulo} é válida!")
+        return {'titulo': titulo, 'data': data, 'conteudo': conteudo, 'link': link}
     except Exception as e:
         print(f"Erro ao processar {link}: {e}")
         return None
 
-def montar_markdown(driver, links):
-    markdown = "# Notícias sobre a FURIA – Dust2.com.br\n\n"
-    count = 0
-    
+def carregar_noticias_salvas():
+    if not os.path.exists("furia_datalog.md"):
+        return set(), None
+
+    with open("furia_datalog.md", "r", encoding="utf-8") as f:
+        conteudo = f.read()
+
+    links_salvos = set()
+    primeira_url = None
+
+    linhas = conteudo.split('\n')
+    for linha in linhas:
+        if linha.startswith("[Fonte]("):
+            link = linha.split("(")[1].split(")")[0]
+            links_salvos.add(link)
+            if not primeira_url:
+                primeira_url = link
+
+    return links_salvos, primeira_url
+
+def processar_novas_noticias(driver, links, links_salvos, primeira_url_salva):
+    novas_noticias = []
+
     for link in links:
+        if link in links_salvos:
+            print(f"Notícia já existente: {link}")
+            if link == primeira_url_salva:
+                print("Chegamos à notícia mais recente. Parando busca.")
+                return novas_noticias, True
+            continue
+
         if verificar_conteudo_furia(driver, link):
-            resultado = extrair_conteudo_noticia(driver, link)
-            if resultado:
-                titulo, data, conteudo = resultado
-                markdown += f"## {titulo}\n"
-                markdown += f"*Publicado em: {data}*\n\n"
-                markdown += f"{conteudo}\n\n"
-                markdown += f"[Fonte]({link})\n\n"
-                markdown += "---\n\n"
-                count += 1
-        time.sleep(1.5)
-    
-    print(f"Total de notícias sobre FURIA que foram encontradas: {count}")
-    return markdown
+            noticia = extrair_conteudo_noticia(driver, link)
+            if noticia:
+                novas_noticias.append(noticia)
+                links_salvos.add(link)
+
+    return novas_noticias, False
+
+def atualizar_arquivo_markdown(novas_noticias):
+    if not novas_noticias:
+        print("Nenhuma notícia nova para adicionar.")
+        return
+
+    conteudo_existente = ""
+    if os.path.exists("furia_datalog.md"):
+        with open("furia_datalog.md", "r", encoding="utf-8") as f:
+            conteudo_existente = f.read()
+
+    novo_conteudo = "# Notícias sobre a FURIA – Dust2.com.br\n\n"
+    for noticia in novas_noticias:
+        novo_conteudo += f"## {noticia['titulo']}\n"
+        novo_conteudo += f"*Publicado em: {noticia['data']}*\n\n"
+        novo_conteudo += f"{noticia['conteudo']}\n\n"
+        novo_conteudo += f"[Fonte]({noticia['link']})\n\n"
+        novo_conteudo += "---\n\n"
+
+    markdown = novo_conteudo + conteudo_existente
+
+    with open("furia_datalog.md", "w", encoding="utf-8") as f:
+        f.write(markdown)
+
+    print(f"Adicionadas {len(novas_noticias)} novas notícias ao arquivo.")
 
 if __name__ == "__main__":
+    arquivo_existe = os.path.exists("furia_datalog.md")
+    links_salvos, primeira_url_salva = carregar_noticias_salvas()
+    
+    if primeira_url_salva:
+        print(f"Notícia mais recente: {primeira_url_salva}")
+
     driver = iniciar_driver()
-    todos_links = set()
+    todas_novas_noticias = []
 
     try:
         for offset in range(0, 601, 30):
             url = f"https://www.dust2.com.br/arquivo?offset={offset}"
             print(f"\nBuscando em: {url}")
-            
+
             links_pagina = buscar_noticias_furia(driver, url)
-            novos_links = [link for link in links_pagina if link not in todos_links]
-            
-            for link in novos_links:
-                if verificar_conteudo_furia(driver, link):
-                    todos_links.add(link)
-                    print(f"Link confirmado: {link}")
-                else:
-                    print(f"Link descartado: {link}")
-            
-            print(f"Total acumulado: {len(todos_links)} links válidos")
-            time.sleep(2)
-            
-            if not links_pagina:
-                print("Nenhum novo link encontrado.")
+            novas_noticias, encontrou_primeira = processar_novas_noticias(driver, links_pagina, links_salvos, primeira_url_salva)
+
+            todas_novas_noticias.extend(novas_noticias)
+            if encontrou_primeira:
                 break
+
+            time.sleep(2)
     finally:
         driver.quit()
 
-    if not todos_links:
-        print("Nenhuma notícia sobre FURIA encontrada.")
-    else:
-        driver = iniciar_driver()
-        try:
-            lista_links = list(todos_links)
-            lista_links.sort()
-            
-            md_text = montar_markdown(driver, lista_links)
-
-            with open("furia_datalog.md", "w", encoding="utf-8") as f:
-                f.write(md_text)
-
-            print(f"Arquivo criado com {len(lista_links)} notícias recentes sobre FURIA!")
-        finally:
-            driver.quit()
+    atualizar_arquivo_markdown(todas_novas_noticias)
