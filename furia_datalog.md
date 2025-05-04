@@ -1,7 +1,59 @@
 # Notícias sobre a FURIA – Dust2.com.br
 
+## FURIA tem novo estrangeiro para comissão técnica
+
+_Publicado em: 30 de abril de 2025 às 12:13_
+
+A FURIA tem uma novidade na comissão técnica. A organização contratou Aidyn "KrizzeN" Tūrlybekov como novo treinador assistente. A novidade foi anunciada pelo clube brasileiro no X (antigo Twitter) nesta quarta-feira.
+"Damos as boas-vindas ao KrizzeN como novo treinador assistente da equipe", publicou a FURIA.
+KrizzeN vai trabalhar ao lado do treinador brasileiro Sidnei "sidde" Macedo e também do espanhol Juan "Hepa" Borges. O último foi contratado em janeiro deste ano, quando Hunter "Lucid" Tucker saiu da equipe.
+KrizzeN se junta com o seu conterrâneo Danil "molodoy" Golubenko, awper de 20 anos que também é do Cazaquistão. Além da dupla cazaque o espanhol hepa, a FURIA tem o estrangeiro Mareks "YEKINDAR" Gaļinskis, que é da Letônia.
+KrizzeN passou a atuar como treinador em agosto de 2022, pela Monte. Na mesma organização ele foi manager e, nos últimos dois anos, atuou como treinador assistente. Antes, o cazaque jogou pela AVANGAR, Winstrike e Falcons
+O primeiro torneio da FURIA com as novidades será a PGL Astana, que acontecerá no dia 10 de maio. Os jogos da primeira rodada ainda não foram divulgados.
+Veja como está o time da FURIA:
+Gabriel "FalleN" Toledo
+Danil "molodoy" Golubenko
+Kaike "KSCERATO" Cerato
+Mareks "YEKINDAR" Gaļinskis
+Yuri "yuurih" Boian
+Sidnei "sidde" Macedo (treinador)
+Aidyn "KrizzeN" Tūrlybekov (assistente)
+Juan "Hepa" Borges (assistente)
+Marcelo "chelo" Cespedes (reserva)
+Felipe "skullz" Medeiros (reserva)
+
+[Fonte](https://www.dust2.com.br/noticias/60845/furia-tem-novo-estrangeiro-para-comissao-tecnica)
+
+---
+
+## dgt comenta interesse da FURIA e explica por que escolheu a paiN
+
+_Publicado em: 29 de abril de 2025 às 13:22_
+
+Depois de muita especulação, Franco "⁠dgt⁠" Garcia é oficialmente jogador da paiN e já terá sua estreia nesta quarta-feira pela BLAST Rivals. O jogador falou em entrevista à HLTV sobre a saída da 9z, propostas da FURIA e o motivo de ter escolhido a paiN.
+dgt foi contratado pela 9z em 2019, e depois de quase seis anos o uruguaio decidiu deixar o time. De acordo com o jogador, ele já não estava mais feliz em La Violeta.
+"Não estávamos mais no mesmo caminho. Eu não estava me sentindo muito confortável no final. Não acho que estava sendo o melhor para nenhuma das partes, nem para a equipe nem para mim, e eu simplesmente não estava feliz. Estava procurando um lugar onde pudesse ser feliz e mostrar o meu melhor jogo."
+De acordo com dgt, o time não ter conseguido se classificar para o Perfect World Shanghai Major teve um grande impacto no time.
+"Sim, mas não aconteceu no final do ano, depois de Xangai, porque queríamos dar uma última chance. Não foi só da minha parte, foram ambas as partes, e acho que percebemos que era o fim da linha. E isso aconteceu em um momento em que não era bom para eles, nem para mim, porque também é difícil encontrar um novo time no meio da temporada. Felizmente, recebi algumas boas ofertas e deu certo."
+dgt agora está junto novamente com dois de seus ex-companheiros de equipe. O uruguaio jogou com David "⁠dav1deuS⁠" Tapia Maldonado e Lucas "⁠nqz⁠" Soares em 2022 pela 9z, chegando até a disputar o IEM Rio Major, e estar de volta com esses companheiros foi um dos motivos que o levou a escolher a paiN.
+"Foi um fator importante. Gostei muito de jogar com dav1deus e nqz, eles são ótimas pessoas e ótimos jogadores. Também acho que, vendo o resto do time de fora, o snow e biguzera, eles têm uma atmosfera muito boa, e isso foi muito importante para mim", disse.
+"Acho que eles são o melhor time da região, ou pelo menos um dos melhores, mas mais do que o jogo em si, o importante também foi a facilidade com que eu me adaptaria ao time e como eu aproveitaria o jogo, porque já conhecer alguns deles antes facilita isso. Eu sabia no que estava me metendo, e isso foi bom para mim. Esse foi um dos grandes motivos pelos quais escolhi a paiN", complementou.
+Apesar de ter escolhido a paiN, a FURIA também tinha interesse na contratação de dgt, mas ele disse que a paiN sempre se destacou para ele.
+"Recebi boas ofertas de vários times, mas a paiN sempre se destacou para mim. É um time que eu queria jogar há algum tempo e, como eu disse, já joguei com dav1deuS e nqz, então sabia que poderia aproveitar o jogo e ficar feliz jogando com eles, ao lado de snow e biguzera, jogadores que ainda não conheço muito bem, mas que parecem ter uma boa atmosfera. Acho que me juntar a eles, e com dav1deuS e nqz um pouco mais velhos e já tendo crescido bastante, assim como snow e biguzera, que têm sua própria maneira de ver o jogo, me ajudará a crescer. Isso é muito importante para mim, e acho que o mais importante é simplesmente estar feliz jogando, e realmente acho que com eles eu estarei."
+A paiN começou bem o ano, mas nos últimos torneios não teve o melhor desempenho, além de ter passado por mudanças no time e ter jogado torneios desfalcados. dgt acredita que ele pode ajudar a equipe a voltar para sua melhor fase.
+"Eles tiveram alguns momentos muito bons, mas talvez precisassem de um jogador com o meu perfil. Ultimamente, eles têm sido o melhor time da região e um dos times com maior potencial do mundo. Só preciso entrar, jogar o meu jogo e me adaptar um pouco ao time, já que eles já são muito bons. Precisamos não criar expectativas, mas apenas jogar o jogo, e com o tempo, espero, o time atinja o seu auge. Acho que essa mudança é boa para ambas as partes e nos beneficiará no futuro."
+O primeiro compromisso de dgt com a paiN será pela BLAST Rivals Season 1. A equipe vai enfrentar a MOUZ nesta quarta-feira às 8h30, e dgt contou que o time teve apenas um dia de treino, mas que não estão sentindo pressão.
+"Hoje será nosso primeiro dia de treino e amanhã jogamos contra a MOUZ, então não temos muita pressão. Não temos expectativas. Só quero curtir o jogo com eles e ver como vai. Faz tempo que não jogo um torneio como este. O último foi o RMR em novembro, então só preciso voltar ao ritmo. Só quero jogar, me divertir e, se conseguirmos vencer todos, ótimo; se não, vamos melhorar. Só quero mesmo começar a treinar e jogar."
+
+[Fonte](https://www.dust2.com.br/noticias/60810/dgt-comenta-interesse-da-furia-e-explica-por-que-escolheu-a-pain)
+
+---
+
+# Notícias sobre a FURIA – Dust2.com.br
+
 ## fer diz que ficou perto da FURIA e conta por que não entrou
-*Publicado em: 28 de abril de 2025 às 14:31*
+
+_Publicado em: 28 de abril de 2025 às 14:31_
 
 Fernando "fer" Alvarenga disse em stream que ficou por detalhes de ser o novo jogador da FURIA. O bicampeão de Major contou sobre as conversas com Gabriel "FalleN" Toledo e explicou o porquê do seu reencontro com o capitão não aconteceu.
 "Eles (FURIA) me chamaram e eu aceitei, mas no final escolheram o YEKINDAR. O FalleN me ligou, explicou o que estava rolando e o que aconteceria no time e disse que me cogitou e os caras se interessaram. Ele me ligou para saber se eu gostaria, porque se não ele ia criar uma situação e, quando chegassem para falar comigo, podia não rolar. Eu falei que, pelo que ia acontecer (no time da FURIA), eu me interessava em entrar. Isso ficou rolando por quase duas semanas, com a gente conversando. Eu sabia que o molodoy ia entrar no lugar do FalleN de AWP, o FalleN iria ser capitão e rifler e que eles iriam fazer mais uma mudança. Tem uma regra no Major que, depois do qualificatório, você pode botar qualquer jogador de um time que não se classificar como substituto."
@@ -17,7 +69,8 @@ fer está sem uma organização desde janeiro de 2023, quando saiu da Imperial. 
 # Notícias sobre a FURIA – Dust2.com.br
 
 ## FalleN avalia 1º trimestre da FURIA: "Nós regredimos"
-*Publicado em: 28 de abril de 2025 às 11:14*
+
+_Publicado em: 28 de abril de 2025 às 11:14_
 
 Gabriel "FalleN" Toledo conversou com torcedores em stream no último sábado e avaliou o primeiro trimestre da equipe. O capitão reconheceu que a equipe precisava mudar depois do desempenho abaixo do esperado, principalmente em comparação com o ano passado.
 "Funcionar já não estava funcionando há um tempo. A gente não está conseguindo atingir nossos objetivos há um tempo, e não falo só pela FURIA, mas por mim também com Imperial, a própria Liquid. Faz um bom tempo que não consigo atingir os objetivos que são as máximas, que é brigar pelos títulos e tal. Foram raras as oportunidades que tivemos perto disso."
@@ -35,7 +88,8 @@ O primeiro compromisso desta nova FURIA será no dia 10 de maio, quando a equipe
 # Notícias sobre a FURIA – Dust2.com.br
 
 ## FURIA confirma que molodoy tirou o visto americano
-*Publicado em: 26 de abril de 2025 às 18:20*
+
+_Publicado em: 26 de abril de 2025 às 18:20_
 
 O primeiro Major de 2025 está se aproximando, e por ser nos Estados Unidos o risco de jogadores não conseguirem o visto é sempre uma grande preocupação. Porém, a FURIA não vai precisar mais se preocupar, pois seu novo awper já conseguiu tirar seu visto.
 Procurada pela Dust2 Brasil, a FURIA confirmou que Danil "molodoy" Golubenko conseguiu tirar seu visto para os Estados Unidos. A Pantera não esclareceu se o jogador conseguiu tirar o visto de Malta, onde a organização mora e treina na Europa.
@@ -49,7 +103,8 @@ Colaborou Gabriel Melo
 ---
 
 ## FURIA realiza ação com crianças de ONGs na Páscoa
-*Publicado em: 25 de abril de 2025 às 08:59*
+
+_Publicado em: 25 de abril de 2025 às 08:59_
 
 A FURIA divulgou nesta quinta-feira que realizou uma ação com crianças de ONGs e de movimentos parceiros da organização durante a Páscoa - data que foi celebrada no último domingo.
 "Nesta Páscoa, a FURIA, em parceria com o Movimento Sem-Teto do Centro, realizou um evento para que as crianças de ONGs e movimentos parceiros tivessem uma experiência inesquecível. Foi um dia repleto de brincadeiras, caça aos ovos, almoço e apresentação musical. Somando todas as ONGs envolvidas, foram doados 600 ovos de Páscoa", escreveu a FURIA no X (antigo Twitter).
@@ -60,7 +115,8 @@ Esta não é a primeira ação da FURIA com ONGs. Desde novembro de 2023 até de
 ---
 
 ## molodoy comenta reação com proposta da FURIA e aulas de inglês
-*Publicado em: 23 de abril de 2025 às 18:45*
+
+_Publicado em: 23 de abril de 2025 às 18:45_
 
 Jogador da AMKAL entre janeiro e abril deste ano, Danil "molodoy" Golubenko deixou o time rumo à organização brasileira. Nesta quarta-feira, o time da Comunidade dos Estados Independentes (CEI) publicou um vídeo com o awper do Cazaquistão.
 No vídeo, em russo, um dos assuntos abordados por molodoy foi sua reação ao interesse da FURIA. O jogador de 20 anos admitiu a surpresa com a proposta de se juntar ao clube brasileiro.
@@ -76,7 +132,8 @@ A estreia da nova FURIA está programada para o dia 10 de maio, quando a equipe 
 ---
 
 ## Documento explica conflito de interesses entre arT e FURIA no Major
-*Publicado em: 23 de abril de 2025 às 14:10*
+
+_Publicado em: 23 de abril de 2025 às 14:10_
 
 A BLAST divulgou nesta quarta-feira os documentos de possíveis conflitos de interesses e explicou a situação entre Andrei "arT" Piovezan e FURIA, ex-equipe do capitão que se classificou para o BLAST.tv Austin Major com o Fluxo.
 No documento divulgado pela BLAST e assinado por Jaime de Pádua, CEO da FURIA, a organização explica que arT tem um número pequeno de ações, conquistado por doação, e também a opção de comprar mais ações do time.
@@ -91,7 +148,8 @@ Já a FURIA está confirmada diretamente para o Stage 2 do Major, por conta da s
 ---
 
 ## YEKINDAR já venceu FURIA em final
-*Publicado em: 22 de abril de 2025 às 19:59*
+
+_Publicado em: 22 de abril de 2025 às 19:59_
 
 Agora jogador da FURIA, Mareks "YEKINDAR" Gaļinskis já esteve do lado adversário da equipe brasileira em uma final. Com a Virtus.pro, o letão derrotou a FURIA para ser campeão da ESL Challenger na Europa.
 O duelo entre FURIA e YEKINDAR na final aconteceu em fevereiro de 2022. Na ocasião, a equipe brasileira chegou à final da ESL Challenger #48, campeonato online realizado na Europa. A Virtus.pro ganhou com tranquilidade, levando a Inferno por 16-5 e a Overpass por 16-7.
@@ -105,7 +163,8 @@ YEKINDAR chega à FURIA para substituir Felipe "skullz" Medeiros, que foi movido
 ---
 
 ## CEO diz por que FURIA contratou YEKINDAR
-*Publicado em: 22 de abril de 2025 às 18:51*
+
+_Publicado em: 22 de abril de 2025 às 18:51_
 
 A FURIA surpreendeu o cenário mais uma vez ao dar mais um passo para a internacionalização da equipe, agora contratando Mareks "YEKINDAR" Gaļinskis. No X (antigo Twitter), o CEO da equipe falou o porquê de contratar o letão que estava no banco da Liquid.
 "A chegada do YEKINDAR traz a agressividade que precisamos, com experiência, voz ativa e a possibilidade enorme de facilitar a ambientação e integração do nosso querido molodoy ao elenco. Nem todas as decisões são óbvias, mas estamos confiantes no processo", publicou Jaime Pádua, CEO da FURIA.
@@ -118,7 +177,8 @@ Com 25 anos, YEKINDAR estava no banco de reservas da Liquid desde dezembro do an
 ---
 
 ## FURIA anuncia novo reforço
-*Publicado em: 22 de abril de 2025 às 14:04*
+
+_Publicado em: 22 de abril de 2025 às 14:04_
 
 A FURA tem um novo reforço internacional. A organização anunciou nesta terça-feira que Mares "YEKINDAR" Gaļinskis chega à organização, inicialmente como stand-in, e vai disputar pelo menos três campeonatos com o time brasileiro.
 "O jogador se juntará à nós como stand-in para a disputa da PGL Astana, IEM Dallas e BLAST.tv Austin Major", escreveu a FURIA ao dar as boas-vindas para o letão que estava no banco de reservas da Liquid.
@@ -141,7 +201,8 @@ Felipe "skullz" Medeiros (reserva)
 ---
 
 ## FURIA confirma skullz na reserva
-*Publicado em: 22 de abril de 2025 às 13:08*
+
+_Publicado em: 22 de abril de 2025 às 13:08_
 
 A FURIA confirmou nesta terça-feira a ida de Felipe "skullz" Medeiros para o banco de reservas da organização. O jogador de 23 anos estava na equipe desde julho do ano passado e deve ser substituído por Mares "YEKINDAR" Gaļinskis.
 "O skullz se despede da equipe titular da FURIA e será movido para o banco de reservas. Somos gratos por todo esforço e trabalho dedicados ao time, e só temos a desejar o melhor na sequência de sua carreira", publicou a FURIA no X (antigo Twitter).
@@ -162,7 +223,8 @@ Felipe "skullz" Medeiros (reserva)
 ---
 
 ## skullz vai ao banco da FURIA, que quer mais um estrangeiro
-*Publicado em: 21 de abril de 2025 às 11:05*
+
+_Publicado em: 21 de abril de 2025 às 11:05_
 
 Felipe "skullz" Medeiros não faz mais parte do time titular da FURIA. O jogador foi colocado no banco de reservas enquanto a organização vai em busca de mais um reforço estrangeiro - o nome da vez é Mareks "YEKINDAR" Gaļinskis, ex-Liquid.
 A informação foi publicada pelo site GameArena e confirmada pela Dust2 Brasil. skullz segue sob contrato com a organização, mas fora da escalação ativa, assim como Marcelo "chelo" Cespedes.
@@ -182,7 +244,8 @@ Felipe "skullz" Medeiros (reserva)
 ---
 
 ## coldzera opina sobre mudanças de FalleN e FURIA
-*Publicado em: 14 de abril de 2025 às 12:31*
+
+_Publicado em: 14 de abril de 2025 às 12:31_
 
 As mudanças na FURIA, envolvendo a contratação Danil "molodoy" Golubenko e o fato de Gabriel "FalleN" Toledo não ser mais o awper dos Panteras, foi assunto na última live de Marcelo "coldzera" David, no domingo.
 Sobre molodoy em si, coldzera afirmou nunca ter visto o ex-AMKAL jogando. Porém, o bicampeão mundial achou "doidera" FalleN ter deixado de ser o awper da FURIA: "É a mesma coisa que tu pegar o kennyS e botar ele para jogar de rifler. Loucura."
@@ -194,7 +257,8 @@ O primeiro compromisso da FURIA após a mudança será a PGL Astana, que acontec
 ---
 
 ## chelo fala sobre saída da FURIA
-*Publicado em: 13 de abril de 2025 às 13:00*
+
+_Publicado em: 13 de abril de 2025 às 13:00_
 
 Marcelo "chelo" Cespedes se manifestou pela primeira vez sobre a saída da FURIA. Colocado na reserva na última sexta-feira, o jogador fez uma longa postagem no Instagram para relembrar os "quase dois anos" vestindo a camisa da equipe.
 "Foram tantas memórias, tantas experiências, tantas emoções, tantas brigas, tanta vontade de fazer dar certo… Mas nem sempre é do jeito que sonhamos ou almejamos. Acredito que todos nós fizemos o que podíamos, e até mais do que conseguíamos, mas nunca saberemos quais são os planos de Deus. O importante é que todos nós saímos de cabeça erguida, porque nunca deixamos a peteca cair (sic)", escreveu o jogador.
@@ -215,7 +279,8 @@ chelo deixou a Imperial para defender a FURIA em julho de 2023, sendo contratado
 ---
 
 ## FalleN explica nova função na FURIA
-*Publicado em: 11 de abril de 2025 às 19:12*
+
+_Publicado em: 11 de abril de 2025 às 19:12_
 
 A FURIA anunciou nesta sexta-feira a contratação de Danil "molodoy" Golubenko. Porém, a função do jovem do Cazaquistão é awper, mesma do capitão da equipe, Gabriel "FalleN" Toledo. Assim, a FURIA postou um vídeo onde o Verdadeiro explica qual será sua nova função.
 "Aqui na FURIA chamamos um novo awp para equipe, e o principal motivo disso foi que eu pretendo agora começar a focar mais em ser um capitão. Passando minha responsabilidade para um outro player, assim eu tenho como ter mais tempo e mais visão para eventualmente, no futuro, me substitui também com um novo capitão dentro da FURIA", disse FalleN.
@@ -230,7 +295,8 @@ moldoy chega para a vaga deixada por Marcelo "chelo" Cespedes. O jogador assumir
 ---
 
 ## Conheça molodoy, o novo awper da FURIA
-*Publicado em: 11 de abril de 2025 às 18:13*
+
+_Publicado em: 11 de abril de 2025 às 18:13_
 
 A FURIA surpreendeu a comunidade ao anunciar nesta sexta-feira a contratação de Danil "molodoy" Golubenko como o novo awper da equipe. Por se tratar de um nome rosto desconhecidos da comunidade, a Dust2 Brasil reuniu nesta reportagem as principais informações sobre o ex-AMKAL.
 Nascido em 10 de janeiro de 2005, molodoy é oriundo do Cazaquistão, país natal de campeões mundiais como Abay "HObbit" Khassenov, Aleksei "Qikert" Golubev. Os primeiros passos no competitivo foram dados com times fakes, em 2020, quando tinha 15 anos. A FURIA será a quarta equipe profissional do jogador.
@@ -255,7 +321,8 @@ molodoy terá um mês para se adaptar a FURIA. A estreia do jogador será na PGL
 ---
 
 ## CEO da FURIA fala sobre contratação surpreendente
-*Publicado em: 11 de abril de 2025 às 17:18*
+
+_Publicado em: 11 de abril de 2025 às 17:18_
 
 A FURIA surpreendeu a comunidade nesta sexta-feira ao anunciar a contratação de Danil "molodoy" Golubenko. O CEO da Pantera, Jaime Pádua, falou em suas redes sociais sobre a contratação do aweper do Cazaquistão.
 "Um passo ousado, mas necessário. Estamos extremamente animados por contar com molodoy - cotado por muitos como um dos maiores prospects europeus do momento numa função que é internacionalmente bem escassa. Confia no molecote, que ele é pica! O rebuild começou!"
@@ -269,7 +336,8 @@ Aos 20 anos, molodoy era jogador da AMKAL. O jogador foi contratado pela europei
 ---
 
 ## FURIA anuncia awper estrangeiro
-*Publicado em: 11 de abril de 2025 às 16:03*
+
+_Publicado em: 11 de abril de 2025 às 16:03_
 
 Pouco depois de colocar Marcelo "chelo" Cespedes no banco de reservar, a FURIA já tem um novo jogador. Pantera anunciou nesta sexta-feira o awper Danil "molodoy" Golubenko, que estava na AMKAL é o novo reforço do time brasileiro.
 Aos 20 anos, molodoy era jogador da AMKAL. O jogador foi contratado pela europeia em janeiro deste ano. Além da AMKAL, molodoy também já passou por times como ALLINNERS e DMS
@@ -291,7 +359,8 @@ Marcelo "chelo" Cespedes (reserva)
 ---
 
 ## FURIA pode ter opções limitadas de contratação para o Major; entenda
-*Publicado em: 11 de abril de 2025 às 15:46*
+
+_Publicado em: 11 de abril de 2025 às 15:46_
 
 A saída de Marcelo "chelo" Cespedes da line titular da FURIA abriu espaço para especulações sobre o futuro jogador. E, caso não tenha um substituto já muito bem definido internamente, os regulamentos da Valve e da BLAST mostram que a organização tem opções limitadas até o início do BLAST.tv Austin Major.
 Segundo as regras, os times participantes dos Major Regional Qualifiers (MRQ) e do Major deveriam enviar suas escalações até esta sexta-feira às 8h (horário de Brasília).
@@ -313,7 +382,8 @@ Colaborou Roque Marques
 ---
 
 ## Relembre números e passagem de chelo pela FURIA
-*Publicado em: 11 de abril de 2025 às 13:35*
+
+_Publicado em: 11 de abril de 2025 às 13:35_
 
 Após um ano e nove meses, Marcelo "chelo" Cespedes não é mais titular da FURIA. Nesse período, o jogador disputou 37 campeonatos entre LANs, torneios online, qualifiers e dois Majors. O rifler conquistou dois títulos na passagem pela equipe.
 Foram nos seis primeiros meses que os melhores resultados aconteceram. A começar pelos títulos na BGS Esports e na Elisa Masters Espoo, ambos em 2023. Naquela temporada, a FURIA ainda foi vice-campeã da Pinnacle Cup V e chegou nas semifinais de outros três campeonatos.
@@ -339,7 +409,8 @@ Mapas com rating abaixo de 0.85: 30,9%
 ---
 
 ## FURIA coloca chelo na reserva
-*Publicado em: 11 de abril de 2025 às 12:14*
+
+_Publicado em: 11 de abril de 2025 às 12:14_
 
 Marcelo "chelo" Cespedes não faz mais parte da line titular da FURIA. Nesta sexta-feira, a organização comunicou que o rifler foi colocado na reserva. A mudança acontece dois dias após o CEO André Akkari falar com torcedores sobre as chances de mudança na equipe.
 O motivo da mudança não foi explicado pela direção da FURIA. O jogador ainda não se pronunciou nas redes sociais. O rifler estava na line desde junho de 2023, quando foi contratado junto Gabriel "FalleN" Toledo após passagens de ambos pela Imperial.
@@ -360,7 +431,8 @@ Marcelo "chelo" Cespedes
 ---
 
 ## Akkari fala sobre chances de mudanças na FURIA
-*Publicado em: 9 de abril de 2025 às 18:25*
+
+_Publicado em: 9 de abril de 2025 às 18:25_
 
 Após a eliminação na PGL Bucharest, nesta quarta-feira, a comunidade voltou a discutir mudanças na FURIA. O assunto também foi tratado "internamente" por André Akkari. No grupo criado pela organização com alguns torcedores, o CEO falou sobre as chances de trocas acontecerem antes do BLAST.tv Austin Major. A Dust2 Brasil teve acesso ao áudio enviado pelo executivo.
 Segundo Akkari, a organização está discutindo o que pode e o que não pode ser feito antes do mundial: "Me parece que, no pré-Major, pode ser feito muita pouca coisa. Você só pode trocar jogadores ou técnicos, ou talvez só jogadores que não estejam classificados para o Major até sexta-feira".
@@ -378,7 +450,8 @@ Colaborou João Ludgério
 ---
 
 ## Aproveitamento da FURIA no ano está abaixo dos 40%
-*Publicado em: 9 de abril de 2025 às 13:01*
+
+_Publicado em: 9 de abril de 2025 às 13:01_
 
 O início de temporada da FURIA é marcado por resultados aquém das expectativas. Presente em quase todos os grandes campeonatos realizados até o momento, a equipe brasileira não realizou nenhuma grande campanha. O que ajuda a corroborar a fase é o aproveitamento abaixo dos 40%.
 Levantamento da Dust2 Brasil mostra que a FURIA, até a PGL Bucharest, disputou 21 séries ao todo, vencendo oito delas, o que representa um aproveitamento de 38%. O número é parecido com os das equipes brasileiras já classificadas para o BLAST.tv Austin Major, pois o da paiN é 42,1% e o do MIBR é 33,3%
@@ -396,7 +469,8 @@ Como a BLAST Bucharest já é passado para a FURIA, o próximo compromisso da eq
 ---
 
 ## FURIA é eliminada da PGL Bucharest
-*Publicado em: 9 de abril de 2025 às 11:50*
+
+_Publicado em: 9 de abril de 2025 às 11:50_
 
 A FURIA caiu para a The MongolZ por 2 a 0 e está fora da PGL Bucharest. A equipe sai do campeonato com somente uma vitória em três partidas disputadas e, assim, o Brasil não tem mais representantes no torneio.
 O confronto começou com a FURIA na frente ao vencer o half por 7-5 na Mirage. No entanto, a The MongolZ foi superior na defesa para virar o placar com oito pontos de CT e vencer por 9-13.
@@ -409,7 +483,8 @@ Assim como a FURIA, a Legacy também deixou a PGL Bucharest nesta quarta-feira. 
 ---
 
 ## FURIA e Legacy conhecem adversários das partidas eliminatórias da PGL Bucharest
-*Publicado em: 8 de abril de 2025 às 16:13*
+
+_Publicado em: 8 de abril de 2025 às 16:13_
 
 A fase de grupos da PGL Bucharest está chegando ao fim, e as duas equipes brasileiras que seguem vivas no torneio já sabem quem vão enfrentar nas partidas eliminatórias. FURIA e Legacy estão 1-2 no torneio, e se perderem mais um jogo estão fora.
 Veja os confrontos:
@@ -421,7 +496,8 @@ A PGL Bucharest vai seguir com a fase suíça até quinta-feira, quando os oito 
 ---
 
 ## sidde comenta pressão por mudança na FURIA
-*Publicado em: 8 de abril de 2025 às 10:22*
+
+_Publicado em: 8 de abril de 2025 às 10:22_
 
 A FURIA está 1-2 na PGL Bucharest e está a uma derrota de ser eliminada na primeira fase do campeonato. Caso isso aconteça, a equipe vai seguir sem se classificar aos playoffs de um grande torneio em 2025. Depois do revés diante da Virtus.pro, Sidnei "sidde" Macedo falou sobre a pressão por mudança.
 "Quando você não alcança os resultados e objetivos que esperam que você alcance, sempre haverá conversas sobre mudanças no time. Enquanto estamos aqui, estamos no meio do processo de tentar melhorar como equipe, então não podemos nos concentrar nisso. Precisamos trabalhar com o que temos agora e tentar conseguir o melhor do time e tentar ter boas colocações nos torneios. Sabemos que essas conversas existem, mas não é o momento para pensarmos sobre elas enquanto estamos jogando, em meio ao torneio. Precisamos vir aqui e jogar juntos, independente das conversas externas", falou o treinador à Dust2 Brasil*
@@ -443,7 +519,8 @@ Antes de estrear na PGL Bucharest, o último campeonato da FURIA foi a BLAST Ope
 ---
 
 ## FURIA cai ao jogo eliminatório da PGL Bucharest
-*Publicado em: 8 de abril de 2025 às 08:08*
+
+_Publicado em: 8 de abril de 2025 às 08:08_
 
 A FURIA é mais um time brasileiro que está próximo da eliminação na PGL Bucharest. Assim como paiN e Legacy, os brasileiros perderam o segundo jogo, desta vez para a Virtus.pro, e caíram para a partida eliminatória.
 O jogo começou com a FURIA na frente ao vencer a primeira metade da Anubis por 7-5 de CT. No entanto, a Virtus.pro foi melhor na segunda metade e virou o placar para vencer o mapa por 11-13.
@@ -455,7 +532,8 @@ A derrota para a Virtus.pro faz com que a FURIA fique 1-2 na PGL Bucharest. O ti
 ---
 
 ## Grim bate próprio recorde em vitória contra FURIA
-*Publicado em: 7 de abril de 2025 às 17:14*
+
+_Publicado em: 7 de abril de 2025 às 17:14_
 
 Michael "Grim" Wince tem motivos em dobro para comemorar a vitória da Complexity sobre a FURIA pela PGL Bucharest, nesta segunda-feira. No acachapante 13-1 na Train, o norte-americano registrou rating de 2.39, o maior da carreira em LANs.
 Grim dominou as estatísticas no mapa. Além do excelente rating, o norte-americano teve 100% de KAST, 135.5 de ADR e 65% das 20 eliminações tendo em HS. Na série em si, o veterano também teve números relevantes, sendo um dos destaques ao lado de Johnny 'JT' Theodosiou.
@@ -468,7 +546,8 @@ A vitória sobre a FURIA foi a segunda da Complexity pela fase de classificaçã
 ---
 
 ## Complexity zoa FURIA após virada na PGL Bucharest
-*Publicado em: 7 de abril de 2025 às 13:42*
+
+_Publicado em: 7 de abril de 2025 às 13:42_
 
 O erro cometido por Marcelo "chelo" Céspedes não passou despercebido para a Complexity. Após a virada sobre a FURIA na PGL Bucharest, nesta segunda-feira, a organização republicou no X (antigo Twitter) um post no qual lembra que, para desarmar a C4, é preciso ficar segurando o "E" - tecla comumente usada para acionar o defuse.
 A situação envolvendo o brasileiro aconteceu na Dust2, quando, após parte do headset que estava usando se desprender e bater no teclado, chelo acabou soltando o defuse no map point, o que fez a FURIA perder o round. A situação, contudo, não prejudicou os Panteras, que venceram o mapa por 13-6.
@@ -480,7 +559,8 @@ Com a vitória sobre a FURIA, a Complexity passa a estar 2-0 na fase de classifi
 ---
 
 ## FURIA sofre virada para Complexity na PGL Bucharest
-*Publicado em: 7 de abril de 2025 às 13:23*
+
+_Publicado em: 7 de abril de 2025 às 13:23_
 
 A FURIA sofreu uma virada para Complexity e agora está 1-1 na PGL Bucharest. A Pantera perdeu por 2 a 1, sendo 13-8 na Dust2, 1-13 na Train e 4-13 na Inferno.
 O primeiro mapa da série foi Dust2, escolha da FURIA. A Pantera começou jogando de TR, e venceu 10 rounds seguidos. Na segunda etapa a equipe brasileira manteve controle do jogo, e apesar de ter perdido um mouse por soltar o defuse enquanto desarmava a C4, a FURIA conseguiu vencer seu mapa de escolha por 13-8.
@@ -494,7 +574,8 @@ A PGL Bucharest vai até o dia 13 de abril e conta com a premiação total de US
 ---
 
 ## Ex-FURIA Academy abre casa para danoco jogar decisão
-*Publicado em: 6 de abril de 2025 às 15:29*
+
+_Publicado em: 6 de abril de 2025 às 15:29_
 
 O Flamengo venceu todos os jogos do primeiro dia do open qualifier da Odyssey Cup e está próximo de avançar ao evento principal. Daniel "danoco" Morgado, integrante rubro-negro, precisou de uma ajuda da comunidade para conseguir jogar pela equipe na partida decisiva deste domingo.
 No X (antigo Twitter), danoco explicou que precisava de alguém com computador para que ele pudesse jogar a seletiva, já que sua placa-mãe deu defeito. Quem vai ajudar o rubro-negro será Henrique "HPS" Soares, ex-FURIA Academy e Elevate.
@@ -508,7 +589,8 @@ Os quatro classificados ao evento principal da Odyssey Cup serão os primeiros c
 ---
 
 ## Veja próximos jogos de FURIA, Legacy e paiN na PGL Bucharest
-*Publicado em: 6 de abril de 2025 às 14:42*
+
+_Publicado em: 6 de abril de 2025 às 14:42_
 
 Depois de oito jogos marcarem o primeiro dia de PGL Bucharest, o campeonato internacional avança para o segundo dia que contará com mais uma bateria de oito partidas na segunda-feira. FURIA, paiN e Legacy já conheceram suas adversárias na próxima rodada.
 O primeiro time brasileiro a entrar no servidor na segunda-feira será a Legacy, que vai jogar às 7h diante da Aurora, entre os times 1-0. O time turco foi o responsável pela derrota da paiN na estreia.
@@ -521,7 +603,8 @@ A PGL Bucharest vai seguir com a fase suíça até quinta-feira, quando os oito 
 ---
 
 ## FURIA estreia com vitória na PGL Bucharest
-*Publicado em: 6 de abril de 2025 às 14:19*
+
+_Publicado em: 6 de abril de 2025 às 14:19_
 
 A FURIA fez o dever de casa ao estrear na PGL Bucharest com vitória. Os brasileiros, que eram favoritos no confronto, derrotaram a Apogee por 2 a 0 e começaram a campanha no torneio com o pé direito.
 O time capitaneado por Gabriel "FalleN" Toledo começou na frente na Dust2, seu mapa de escolha, ao vencer o half por 8-4. A FURIA seguiu com larga vantagem no placar, segurou os ataques dos poloneses e fechou o mapa em 13-6.
@@ -533,7 +616,8 @@ Com a vitória, a FURIA fica 1-0 na PGL Bucharest, assim como a Legacy que derro
 ---
 
 ## FURIA volta a recusar convite para IEM Melbourne
-*Publicado em: 3 de abril de 2025 às 09:23*
+
+_Publicado em: 3 de abril de 2025 às 09:23_
 
 Uma das equipes inicialmente convidadas, a FURIA voltou a recusar disputar a IEM Melbourne. O invite foi refeito porque abriu-se uma vaga na lista de participantes com a desistência da Eternal Fire. Foi o que informou a ESL, nesta quinta-feira.
 Segundo a organizadora, o motivo da FURIA recusar o segundo convite foi o mesmo do primeiro. A Astralis seguiu a mesma linha do time brasileiro, enquanto a G2 se interessou, mas não obteve os vistos necessários a tempo.
@@ -548,7 +632,8 @@ A LAN australiana está marcada para ser disputada de 21 a 27 de abril. Duas equ
 ---
 
 ## FURIA garante vaga na ESL Impact S7 Finals
-*Publicado em: 2 de abril de 2025 às 19:02*
+
+_Publicado em: 2 de abril de 2025 às 19:02_
 
 A FURIA conquistou a sexta vitória seguida na ESL Impact S7 sul-americana e garantiu a classificação para o mundial em Dallas, nos Estados Unidos. O triunfo que confirmou a ida das brasileiras para o torneio internacional se deu diante da Messitas nesta quarta-feira.
 O time de Bruna "bizinha" Marvila começou dominante no primeiro mapa da série, a Anubis, para vencer por 13-1. Na Ancient, a partida foi um pouco mais próxima, mas deu FURIA novamente, desta vez por 13-7.
@@ -561,7 +646,8 @@ A ESL Impact S7 Finals vai ter quatro times europeus, dois sul-americanos e dois
 ---
 
 ## arT opina sobre momento da FURIA
-*Publicado em: 29 de março de 2025 às 21:17*
+
+_Publicado em: 29 de março de 2025 às 21:17_
 
 Andrei "arT" Piovezan passou grande parte da sua carreira fora do Brasil. Quando jogou pela FURIA, o jogador chegou a morar nos Estados Unidos, e depois também ficava grande parte do ano na Europa ou viajando para campeonatos. Agora, arT está morando no Brasil e jogando quase exclusivamente campeonatos nacionais. Em entrevista à Dust2 Brasil ele explicou a diferença das suas experiências
 "É óbvio que tem os lados bons e ruins. O bom principalmente é poder estar perto de amigos, da família. Às vezes um amigo vai casar, como aconteceu semana passada, você pode estar lá presente. Às vezes você quer ver sua família, você pode ir lá. Então, essa proximidade com quem você ama é um diferencial muito positivo. Viajar menos também, é um pouco cansativo fazer tantas viagens. E o negativo é porque você também quer estar nesse mundo, quem compete, gosta disso e ama competição quer estar lá competindo e quer estar nesse mundo mais difícil, então você fica sempre dividido entre o que você quer no momento. Se você está com muita saudade da família, você pensa, ‘ é legal estar no Brasil’, mas depois ‘queria muito estar jogando agora uma BLAST’, aí você fica dividido. Mas é sempre assim, não tem um mundo perfeito, os dois são bons guardadas as devidas às proporções."
@@ -578,7 +664,8 @@ arT jogou pela FURIA por seis anos, e conhece bem a organização. Atualmente, a
 ---
 
 ## FURIA lança uniforme com a Adidas
-*Publicado em: 28 de março de 2025 às 10:46*
+
+_Publicado em: 28 de março de 2025 às 10:46_
 
 A FURIA lançou nesta sexta-feira um novo uniforme. Desta vez, a camiseta foi feita em colaboração com a Adidas e tem detalhes no ombro, com as três listras brancas - tradicionais da marca -, e também uma pantera.
 "O novo manto furioso agora carrega as três listras mais famosas do esporte", escreveu a FURIA ao anunciar o novo uniforme.
@@ -591,7 +678,8 @@ O time de Counter-Strike da FURIA pode aparecer com o novo uniforme a partir do 
 ---
 
 ## FURIA supera Spirit e Vitality em programa de incentivo da ESL
-*Publicado em: 26 de março de 2025 às 13:12*
+
+_Publicado em: 26 de março de 2025 às 13:12_
 
 A ESL Pro League S21 chegou ao fim no dia 16 de março e, nesta quarta-feira, a organizadora divulgou uma atualização para o programa de incentivo anual. Na nova lista, a FURIA superou a Vitality e a Spirit.
 A FURIA levou 14 pontos de audiência, com base nos dados do Esports Charts, por ter média de 175 mil espectadores na primeira e segunda fase da EPL S21. Os playoffs não entram no levantamento de nenhum time. Assim, a FURIA teve a 3ª melhor posição no torneio, atrás somente de G2 e NAVI, respectivamente.
@@ -607,7 +695,8 @@ O próximo campeonato da ESL que vai influenciar o programa de incentivo anual s
 ---
 
 ## fer opina sobre momento da FURIA
-*Publicado em: 25 de março de 2025 às 10:54*
+
+_Publicado em: 25 de março de 2025 às 10:54_
 
 Fernando "fer" Alvarenga comentou em stream sobre o momento da FURIA e opinou que a equipe deve passar por mudanças. O veterano também afirmou que, hoje, não consegue apontar quem deve permanecer na escalação.
 "Não sei explicar o porquê, mas os caras estão nesse 'dream' ainda, mas não tem mais jeito. Já não tinha jeito faz tempo, porém tentaram, tem que tirar o chapéu porque tentaram. Se eu tivesse no time, já teria tirado alguém faz tempo, e deve ser por isso que não estou em time nenhum. Não aguento ficar em equipe ruim, não dá, não tem como. Para ficar nesse time ruim, sem condições. Do jeito que está, é impossível. O time está horrível. No papel, é muito bom, são cinco jogadores bons, mas o problema é que levar papel para guerra não funciona."
@@ -621,7 +710,8 @@ A FURIA voltará a jogar uma partida oficial na PGL Bucharest, torneio que come�
 ---
 
 ## Akkari criará grupo com torcida para debater FURIA
-*Publicado em: 24 de março de 2025 às 12:00*
+
+_Publicado em: 24 de março de 2025 às 12:00_
 
 A equipe de Counter-Strike da FURIA vive um momento conturbado. O time vem de resultados ruins nos últimos campeonatos, e a torcida mostra um grande descontentamento nas redes sociais. André Akkari, um dos donos da FURIA, fez uma publicação em suas redes sociais, afirmando que vai criar um grupo com a torcida para debater, e disse que os torcedores poderão pedir troca no time de CS.
 "A FURIA não chegou — ela explodiu. Explodiu com suor, suor convertido em munição. Explodiu com gritos, com derrotas engolidas e viradas conquistadas na raça e na paixão. Somos uma tropa, uma legião, e o mundo agora nos conhece. Saímos do Brasil pra nos tornarmos a nona maior potência do planeta. Mas o número é só estatística — o que conta é a alma. Vivemos o CS como se fosse vida ou morte. Torcida insana, que não aceita silêncio, que não abaixa a cabeça, que grita mesmo quando tudo parece perdido. Sim, hoje está foda, também estou puto!"
@@ -636,7 +726,8 @@ O próximo compromisso da FURIA será a PGL Bucharest, que acontecerá entre os 
 ---
 
 ## FalleN desabafa sobre atual momento da FURIA
-*Publicado em: 23 de março de 2025 às 09:25*
+
+_Publicado em: 23 de março de 2025 às 09:25_
 
 Quase um dia após a eliminação na BLAST Open Lisbon, Gabriel "FalleN" Toledo desabafou sobre o atual momento da FURIA no Instagram. Lá, reconheceu que os últimos meses têm sido difíceis tanto para quem joga, mas principalmente para quem assisti os jogos dos Panteras.
 "Derrotas duras, desapontamentos e dificuldades em atingir nossos objetivos. Se é terrível jogando, com certeza é assistindo. Muitas vezes assistir é tão ou mais doloroso do que jogar", escreveu o capitão.
@@ -649,7 +740,8 @@ A equipe brasileira voltará a se apresentar em palcos internacionais daqui uma 
 ---
 
 ## "Chegou no limite, né Gau?": veja as reações à eliminação da FURIA
-*Publicado em: 22 de março de 2025 às 14:49*
+
+_Publicado em: 22 de março de 2025 às 14:49_
 
 A FURIA se despediu da BLAST Open Lisbon neste sábado ao perder para a M80 na rodada eliminatória da fase de grupos. Pela forma que aconteceu, a derrota desagradou a comunidade como um todo. Torcedores e personalidades não pouparam nas criticas ao time brasileiro.
 Uma das reações mais assertivas foi a de Jean "mch" Michel D'Oliveira, quando ainda transmitia a partida. "Chegou no limite, né Gau?", indagou o streamer. Ele completou: "Os deuses do CS não perdoam quando você tem um 3x3, com bomba plantada no B da Inferno e você não converte."
@@ -661,7 +753,8 @@ A transmissão oficial do campeonato, enquanto Gabriel "FalleN" Toledo era entre
 ---
 
 ## FalleN aponta principal motivo para derrota da FURIA
-*Publicado em: 22 de março de 2025 às 14:32*
+
+_Publicado em: 22 de março de 2025 às 14:32_
 
 Gabriel "FalleN" Toledo conversou com a mesa de transmissão da BLAST depois da FURIA ser eliminada da BLAST Open Lisbon neste sábado. Os brasileiros começaram na frente, tiveram vantagens no mapa, porém sofreram a virada para a M80 e caíram no torneio.
 Na conversa, o capitão apontou qual foi o grande problema da FURIA que levou a equipe à derrota na série eliminatória.
@@ -677,7 +770,8 @@ Na série diante da M80, a FURIA foi superior e venceu os três lados TRs que di
 ---
 
 ## FURIA sofre virada e se despede da BLAST Open Lisbon
-*Publicado em: 22 de março de 2025 às 14:00*
+
+_Publicado em: 22 de março de 2025 às 14:00_
 
 A FURIA não aproveitou as vantagens no placar na série eliminatória diante da M80 pela BLAST Open Lisbon e foi eliminada do campeonato ao sofrer a virada para a equipe norte-americana.
 Gabriel "FalleN" Toledo e companhia foram dominantes no primeiro mapa diante dos norte-americanos. A FURIA abriu 10-2 na Dust2 e, embora tenha sofrido um pouco de CT, conseguiu fechar em 13-7.
@@ -690,7 +784,8 @@ A FURIA, que tinha perdido para a NAVI na estreia, foi eliminada com a derrota d
 ---
 
 ## FURIA e MIBR seguem invictas na ESL Impact League Season 7 SA
-*Publicado em: 21 de março de 2025 às 08:00*
+
+_Publicado em: 21 de março de 2025 às 08:00_
 
 Mantendo o mesmo padrão das outras edições da ESL Impact League, duas equipes seguem invictas na season 7. FURIA e MIBR venceram seus confrontos na quarta rodada e seguem na liderança com 12 pontos cada.
 A FURIA enfrentou a Bounty Hunters fe na quarta rodada, vencendo por 2 a 0. Já o Fluxo o MIBR venceu a Brave Bears também por 2 a 0, mantendo a invencibilidade.
@@ -703,7 +798,8 @@ No fim do campeonato os dois melhores times vão se classificar para a ESL Impac
 ---
 
 ## FURIA estreia com derrota na BLAST Open Lisboa
-*Publicado em: 20 de março de 2025 às 19:01*
+
+_Publicado em: 20 de março de 2025 às 19:01_
 
 A FURIA estreou com derrota na BLAST Open Lisboa. A equipe liderada por Gabriel "FalleN" Toledo foi perdeu para NAVI por 2 a 0, sendo 12-16 na Anubis e 8-13 na Mirage. Com a derrota, a Pantera caiu para a lower bracket do grupo B.
 A FURIA escolheu Anubis como primeiro mapa da série. A Pantera venceu os dois primeiros rounds, mas a NAVI, jogando de TR, foi quem saiu na frente no primeiro half por 8-4. Na segunda etapa a FURIA foi bem, a NAVI conseguiu chegar até o 12° ponto mas a equipe brasileira conseguiu empatar e levar para prorrogação. No OT a NAVI ganhou todos os rounds e venceu o mapa por 16-12.
@@ -716,7 +812,8 @@ A BLAST Open Lisboa acontece até o dia 30 de março e conta com a premiação t
 ---
 
 ## FalleN vê FURIA com time ideal para ir mais longe
-*Publicado em: 19 de março de 2025 às 18:14*
+
+_Publicado em: 19 de março de 2025 às 18:14_
 
 A FURIA disputou três LANs internacionais em 2025, mas ainda não conseguiu chegar aos playoffs. A próxima oportunidade será na BLAST Open Lisbon, que começará para a equipe brasileira na quinta-feira. À HLTV, Gabriel "FalleN" Toledo avaliou o começo de ano do time.
 "Não foi um primeiro semestre muito bom em termos de resultados. A gente queria e poderia ter ido um pouco mais longe. Ficamos muito tristes com algumas derrotas porque elas escapam em alguns momentos-chaves, porém pelo outro lado mostra que temos potencial e condições de jogar melhor do que estamos jogando."
@@ -745,7 +842,8 @@ A FURIA de FalleN vai estrear na BLAST Open diante da NAVI a partir de 15h30 da 
 ---
 
 ## Somente com bônus de incentivo, FURIA bateria premiação de 2024
-*Publicado em: 15 de março de 2025 às 14:20*
+
+_Publicado em: 15 de março de 2025 às 14:20_
 
 Para manter as equipes nos próprios campeonatos, as organizadoras implementaram neste ano sistemas de bônus por participação. São programas que visam aumentar os ganhos dos times ao longo da temporada. Esse impacto já é visível, por exemplo, na FURIA. O montante do Annual Club Incentive obtido só por ter jogado a IEM Katowice supera o que os Panteras acumularam em premiações em 2024.
 Como a FURIA foi uma das 12 equipes mais assistidas na IEM Katowice, a equipe brasileira garantiu o direito de receber 8,3% dos US$ 2,9 milhões (R$ 16,6 milhões) que serão distribuídos pelo programa da ESL. A porcentagem equivale a US$ 245,8 mil (R$ 1,4 milhão) do total. O montante, por si só, é superior às premiações somadas dos Panteras em 2024: US$ 211 mil (R$ 1,2 milhão).
@@ -789,7 +887,9 @@ Média audiência
 5,6%
 5,6%
 5,6%
-$$ acumulado
+
+$$
+acumulado
 US$ 327,7 mil
 US$ 327,7 mil
 US$ 327,7 mil
@@ -1134,3 +1234,13 @@ A ESL Pro League Season 21 está acontecendo na Suécia, e vai até o dia 16 de 
 
 ---
 
+## Time feminino
+
+kaahSENSEI - Karina Takahashi
+izaa - Izabella Galle
+gabs - Gabriela Freindorfer
+bizinha - Bruna Marvila
+lulitenz - Lucia Dubra
+
+---
+$$
